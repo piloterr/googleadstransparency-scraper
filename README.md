@@ -70,7 +70,7 @@ response = requests.get(
     params={
         "query": "https://adstransparency.google.com/advertiser/AR10904289436120383489/creative/CR10927354991047868417?region=FR",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -244,7 +244,7 @@ response = requests.get(
     params={
         "query": "webapi.group",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
