@@ -448,7 +448,9 @@ Use Piloterr from your own language with a typed client:
 
 - [Bing Scraper API](https://github.com/piloterr/bing-scraper)
 - [Brave Scraper API](https://github.com/piloterr/brave-scraper)
+- [DuckDuckGo Scraper API](https://github.com/piloterr/duckduckgo-scraper)
 - [Google Scraper API](https://github.com/piloterr/google-scraper)
+- [Yahoo Scraper API](https://github.com/piloterr/yahoo-scraper)
 - [All Piloterr scrapers on GitHub](https://github.com/piloterr)
 
 ## Support
